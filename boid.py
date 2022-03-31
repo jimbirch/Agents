@@ -1,6 +1,6 @@
 ##############################################################################
 ### Boid object for QGIS fish school plugin                                ###
-### ©2022 Skip Burchfield                                                  ###
+### 2022 Jim Burchfield                                                    ###
 ##############################################################################
 # Instantiates a boid as a simple agent-based model for a schooling fish.    #
 # Boids are based on Craig Reynolds's 1986 model for simulating flocking beh-#
